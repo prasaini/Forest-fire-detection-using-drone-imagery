@@ -19,7 +19,7 @@ TensorFlow: An open-source machine learning framework.
 Scikit-learn (sklearn): A machine learning library for various tasks.  
 The model trained using this project achieves an accuracy of 100% in detecting forest fires. This high accuracy indicates the effectiveness of the implemented model in distinguishing between fire and smoke and the absence of fire and smoke.
 ## 3. Dataset
-FLAME 2: FIRE DETECTION AND MODELING: AERIAL MULTI-SPECTRAL IMAGE DATASET
+FLAME 2: FIRE DETECTION AND MODELING: AERIAL MULTI-SPECTRAL IMAGE DATASET   
 Source - IEEE DataPort
 ## Usage
 To use this project, follow these steps:
